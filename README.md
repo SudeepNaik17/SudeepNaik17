@@ -4,7 +4,7 @@
 ---
 
 # 💫 About Me:
-🔭 I’m currently working on strengthening my backend development foundations and building scalable systems.<br>
+🔭 I’m currently working on strengthening my backend development and building scalable systems.<br>
 👯 I’m looking to collaborate on innovative web development projects and scalable applications.<br>
 🤝 I’m looking for help with front-end integration to seamlessly transform my backend systems into complete full-stack applications.<br>
 🌱 I’m currently learning production-level full-stack development best practices and deployment workflows.<br>
