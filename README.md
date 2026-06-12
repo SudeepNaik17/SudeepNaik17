@@ -1,33 +1,264 @@
-<h1 align="center">Hello 👋, I'm Sudeep Naik</h1>
-<p align="center"><b>A passionate Backend Developer!</b></p>
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,50:7C3AED,100:A855F7&text=Sudeep%20Naik&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Backend+Developer;Node.js+%7C+Express.js+%7C+MongoDB;Software+Engineering+Enthusiast;Building+Scalable+Web+Applications;Open+Source+Contributor"/>
+
+<br/>
+
+![Student](https://img.shields.io/badge/Software_Engineer-Aspiring-7C3AED?style=for-the-badge)
+![Backend Developer](https://img.shields.io/badge/Backend-Developer-4F46E5?style=for-the-badge)
+![Location](https://img.shields.io/badge/Mangalore-Karnataka_India-A855F7?style=for-the-badge)
+
+<a href="https://linkedin.com/in/sudeep-naik17">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:Sudeepnaik801@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/SudeepNaik17">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<br/>
+
+![](https://komarev.com/ghpvc/?username=SudeepNaik17&style=for-the-badge&color=7C3AED)
+![](https://img.shields.io/github/followers/SudeepNaik17?style=for-the-badge&color=7C3AED)
+![](https://img.shields.io/github/stars/SudeepNaik17?affiliations=OWNER&style=for-the-badge&color=7C3AED)
+
+</div>
 
 ---
 
-# 💫 About Me:
-🔭 I’m currently working on strengthening my backend development and building scalable systems.<br>
-👯 I’m looking to collaborate on innovative web development projects and scalable applications.<br>
-🤝 I’m looking for help with front-end integration to seamlessly transform my backend systems into complete full-stack applications.<br>
-🌱 I’m currently learning production-level full-stack development best practices and deployment workflows.<br>
-💬 Ask me about JavaScript, Node.js, MongoDB, RESTful API architecture, and authentication middleware.<br>
-⚡ Fun fact: I write code to solve complex problems—and occasionally create a few new puzzles to solve in the process.
+# About Me
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/sudeepnaik17) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_sudeep__naik__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sudeep-naik17) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Sudeep_naik_17) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sudeepnaik801@gmail.com) 
+I am **Sudeep Naik**, a Backend Developer focused on building scalable, secure, and production-ready web applications.
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+My expertise lies in designing RESTful APIs, database architecture, authentication systems, and backend infrastructure using modern JavaScript technologies. I enjoy solving real-world engineering problems and continuously improving my software development skills.
 
-# 📊 GitHub Stats:
-<p align="left">
-  <img src="https://github-readme-stats.shion.dev/api?username=SudeepNaik17&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Sudeep's GitHub stats" />
-  <img src="https://streak-stats.demolab.com/?user=SudeepNaik17&theme=dark&hide_border=false" alt="Sudeep's GitHub streak" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SudeepNaik17&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Sudeep's top languages" />
+### Open To
+
+- Backend Development Roles
+- Software Engineering Internships
+- Full Stack Development Opportunities
+- Open Source Contributions
+- AI & Automation Projects
+
+---
+
+# Tech Stack
+
+### Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,python,cpp,mysql"/>
+</p>
+
+### Frontend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,javascript"/>
+</p>
+
+### Backend & Databases
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql"/>
+</p>
+
+### Cloud, DevOps & Tooling
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
 </p>
 
 ---
 
+# Featured Projects
+
+<details>
+<summary><b>Backend Ledger</b></summary>
+
+### Overview
+
+A modern backend accounting and ledger management system built with Node.js, Express.js, MongoDB, and JWT authentication.
+
+| Category | Details |
+|-----------|----------|
+| Stack | Node.js, Express.js, MongoDB |
+| Scale | Multi-user Architecture |
+| Performance | Optimized API Endpoints |
+| Security | JWT Authentication |
+| Impact | Digital Ledger Management |
+| Repository | https://github.com/SudeepNaik17/backend-ledger |
+
+### Key Features
+
+- Secure User Authentication
+- JWT Authorization
+- Ledger Management
+- Transaction Tracking
+- MongoDB Integration
+- REST API Architecture
+- Scalable Backend Structure
+
+</details>
+
+---
+
+# Experience
+
+## Backend Developer Intern — Krytil (Remote)
+
+**November 2025 – May 2026**
+
+Worked as a Backend Developer Intern contributing to backend systems, API development, database integration, and server-side application architecture.
+
+### Responsibilities
+
+- Developed RESTful APIs using Node.js and Express.js
+- Integrated MongoDB databases
+- Implemented Authentication & Authorization
+- Debugged and optimized backend services
+- Collaborated remotely with development teams
+- Followed industry-standard coding practices
+
+### Skills Used
+
+`Node.js` `Express.js` `MongoDB` `JavaScript` `Git` `REST APIs`
+
+---
+
+# Achievements
+
 <div align="center">
-  <h3>✨ Let's Connect & Build Something Amazing! ✨</h3>
-  <p>Always open to interesting side projects, open-source collaborations, or just chatting about scalable system design.</p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%" />
+
+| Recognition | Details |
+|------------|-----------|
+| Backend Development | Built production-ready ledger management platform |
+| Internship Experience | Successfully completed 6-month Backend Development Internship |
+| Software Engineering | Strong foundation in backend architecture and API development |
+| Continuous Learning | Expanding expertise in AI, Full Stack Development, and Cloud Technologies |
+
 </div>
+
+---
+
+# Coding Profiles
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode)](#)
+
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks)](#)
+
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank)](#)
+
+[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge)](#)
+
+</div>
+
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SudeepNaik17&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudeepNaik17&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SudeepNaik17&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=SudeepNaik17&theme=radical&no-frame=true&no-bg=true&margin-w=10"/>
+</p>
+
+---
+
+# Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SudeepNaik17&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/SudeepNaik17/SudeepNaik17/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# Current Focus
+
+```yaml
+Learning:
+  - Advanced Backend Development
+  - System Design
+  - Cloud Computing
+  - AI & Machine Learning
+
+Building:
+  - Scalable Backend Applications
+  - RESTful APIs
+  - Automation Solutions
+
+Exploring:
+  - DevOps
+  - Microservices
+  - Cloud Infrastructure
+
+Open_To:
+  - Backend Developer Roles
+  - Software Engineering Opportunities
+  - Open Source Collaboration
+```
+
+---
+
+# Connect
+
+<div align="center">
+
+<a href="mailto:Sudeepnaik801@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://linkedin.com/in/sudeep-naik17">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/SudeepNaik17">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+*"Building scalable software, one commit at a time."*
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4F46E5,50:7C3AED,100:A855F7"/>
